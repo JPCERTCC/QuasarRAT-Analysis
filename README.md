@@ -10,19 +10,19 @@ Python tools for analyzing Quasar. These tools support Quasar version 1.3. We ha
 
 Python script that fake a Quasar client.
 
-![quasarrat_client](https://raw.githubusercontent.com/JPCERTCC/QuasarRAT-Analysis/master/images/client.png)
+![quasarrat_client](images/client.png)
 
 ### quasarrat_decode.py
 
 Python script to decode and encode Quasar packet.
 
-![quasarrat_decode](https://raw.githubusercontent.com/JPCERTCC/QuasarRAT-Analysis/master/images/decode.png)
+![quasarrat_decode](images/decode.png)
 
 ### quasarrat_panel.py
 
 Python script that fake a Quasar C2 panel.
 
-![quasarrat_panel](https://raw.githubusercontent.com/JPCERTCC/QuasarRAT-Analysis/master/images/panel.png)
+![quasarrat_panel](images/panel.png)
 
 ## Research results
 
@@ -37,4 +37,4 @@ TBA
 
 ### Quasar family
 
-![Quasar family](https://raw.githubusercontent.com/JPCERTCC/QuasarRAT-Analysis/master/images/Quasar.png)
+![Quasar family](images/Quasar.png)
